@@ -1,7 +1,7 @@
 
 <h1 align="center">Konnichiwa Developers, I am Swatita(swatuu0602)</h1>
 
-<h3 align="center">I'm Swatita, a software developer enthusiast who likes to work on machine learning and deep learning projects to solve complex real-world problems using . I'm also interested in building many web application using JavaScript and React.</h3>
+<h3 align="center">I'm Swatita, a software developer enthusiast who likes to work on machine learning and deep learning projects to solve complex real-world problems . I'm also interested in building many web application using JavaScript and React.</h3>
 <img align="right"  alt="coding" width= "400" src="https://camo.githubusercontent.com/485a42126383fcf66d2a6c99dcff572757420fb5af1d26b6cd1a32a086a77c51/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966">
 
 - 🔭 I’m currently working on **improving my skills on React and JavaScript**
