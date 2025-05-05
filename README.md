@@ -63,16 +63,6 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-
-- **[MarketMind](https://github.com/swatuu0602/MarketMind):** Global sales management with predictive analytics.
-- **[AI Monitoring and Response Mechanism](https://github.com/swatuu0602/AI-Monitoring-and-Response-system-for-Anti-Accident-Mechanism):** AI-powered accident prevention system.
-- **[2048 Game](https://github.com/swatuu0602/2048_GAME):** Modern React-based 2048 game.
-
----
-
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatita-dash-9781aa21b/)
