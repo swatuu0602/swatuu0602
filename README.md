@@ -1,15 +1,10 @@
-<img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" width="220" align="left" style="margin-right: 20px; border-radius: 10px;" alt="Coding Cat"/>
+<img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" width="220" align="right" style="margin-left: 20px; border-radius: 10px;" alt="Coding Cat"/>
 
 # Konnichiwa! 👋 I'm Swatita
 
 ## About Me 🚀
 
 I'm a passionate backend developer with expertise in Node.js and Express.js, specializing in building robust and scalable server-side applications. I love architecting RESTful APIs and implementing efficient database solutions. Alongside my backend focus, I'm also skilled in machine learning and deep learning, applying these technologies to solve complex real-world problems.
-
-### 🎓 Education
-- **Chandigarh University, Punjab**
-  - Bachelor of Engineering CSE (Hons.) AIML
-  - CGPA: 8.54/10 (2021-2025)
 
 ### 🎯 Current Focus
 - 🔭 Building scalable backend services with Node.js and Express
