@@ -8,7 +8,6 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 
 ### 🎯 Current Focus
 - 🔭 Building scalable backend services with Node.js and Express
-- 🌱 Learning React, JavaScript, and Large Language Models (LLM)
 - 👯 Looking to collaborate on interesting backend and ML projects
 - 💡 Exploring microservices architecture and cloud technologies
 
@@ -63,8 +62,6 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
