@@ -73,13 +73,6 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 
 ---
 
-### 🏆 Certifications
-
-- Advanced Computer Organization and Architecture (NPTEL)
-- Advanced CV, ML, Deep Learning, Production ML Systems, NLP (Coursera & IBM)
-
----
-
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatita-dash-9781aa21b/)
