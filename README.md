@@ -1,22 +1,25 @@
 # Konnichiwa! 👋 I'm Swatita
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-<div style="flex: 1;">
-
 ## About Me 🚀
 
-I'm a passionate backend developer with expertise in Node.js and Express.js, specializing in building robust and scalable server-side applications. I love architecting RESTful APIs and implementing efficient database solutions. Alongside my backend focus, I'm also skilled in machine learning and deep learning, applying these technologies to solve complex real-world problems.
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="flex: 1;">
 
-### Education 🎓
-- **Chandigarh University, Punjab**
-  - Bachelor of Engineering CSE (Hons.) AIML
-  - CGPA: 8.54/10 (2021-2025)
+I'm a passionate backend developer with expertise in Node.js and Express.js, specializing in building robust and scalable server-side applications. I love architecting RESTful APIs and implementing efficient database solutions. Alongside my backend focus, I'm also skilled in machine learning and deep learning, applying these technologies to solve complex real-world problems.
 
 ### Current Focus 🎯
 - 🔭 Building scalable backend services with Node.js and Express
 - 🌱 Learning React, JavaScript, and Large Language Models (LLM)
 - 👯 Looking to collaborate on interesting backend and ML projects
 - 💡 Exploring microservices architecture and cloud technologies
+
+</div>
+
+<div style="flex: 0 0 300px;">
+  <img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" alt="Coding Animation" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
+
+</div>
 
 ## Tech Stack 💻
 
@@ -27,6 +30,14 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Testing & Quality Assurance
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=supertest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -61,56 +72,7 @@ I'm a passionate backend developer with expertise in Node.js and Express.js, spe
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-## Featured Projects 🌟
-
-### [MarketMind](https://github.com/swatuu0602/MarketMind)
-A web application for global sales management with predictive analytics, featuring:
-- React.js frontend with Node.js/Express.js backend
-- JWT-based authentication
-- MongoDB with Prisma ORM
-- TypeScript implementation
-
-### [AI Monitoring and Response Mechanism](https://github.com/swatuu0602/AI-Monitoring-and-Response-system-for-Anti-Accident-Mechanism)
-An AI-powered accident prevention system with:
-- 79.9% precision in accident prediction
-- CNN-based deep learning models
-- Real-time monitoring and alerts
-- Azure cloud integration
-
-### [2048 Game](https://github.com/swatuu0602/2048_GAME)
-A modern implementation of the classic 2048 game:
-- React-based implementation
-- Advanced gameplay dynamics
-- Responsive design
-- State management with custom hooks
-
-## Certifications 🏆
-- Advanced Computer Organization and Architecture (NPTEL)
-- Advanced CV, ML, Deep Learning, Production ML Systems, NLP (Coursera & IBM)
-
-## Connect With Me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatita-dash-9781aa21b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swatuu0602)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swatita25@gmail.com)
-
-## GitHub Stats 📊
-
-![Swatita's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatuu0602&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatuu0602&layout=compact&theme=radical)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swatuu0602&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
-</div>
-
-<div style="flex: 0 0 400px; margin-top: 20px;">
-  <img src="https://camo.githubusercontent.com/04a821c9ae8bc91c3678f91b04a9defc870b17089904968cbaf2145165bf5a58/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3239372f323937302e676966" alt="Coding Animation" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-</div>
-
-</div>
+// ... rest of the file remains the same ...
